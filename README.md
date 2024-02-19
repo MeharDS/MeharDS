@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MeharDS
 - 👀 I’m interested in Data Science | Machine Learning  | Problem Solving 
-- 🌱 I’m currently Committed to staying at the forefront of industry trends and technologies. 
+- 🌱 I’m currently committed to staying at the forefront of industry trends and technologies. 
 - 💞️ I’m looking to collaborate on Data Science Projects
-- 📊 Skills: Data Analysis | Machine Learning | Python | Deep Learning
 - 🏆 Certifications: Machine Learning AI & Data Science | Google Data Analytics | Microsoft Office Specialist
 - 📫 Feel free to reach out for discussions on data science, machine learning, or anything related!
 <!---
